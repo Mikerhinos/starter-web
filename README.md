@@ -21,5 +21,5 @@ Merci de fork ce repo puis prévenir des Pull pour vérification.
 
 ### Copyright
 
-2016 Mikerhinos
+2016 Mikerhinos. Tous droits réservés.
 
