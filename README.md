@@ -14,6 +14,10 @@ Sample website with plenty of files for demos.
 
 Tests de git
 
+## Comment contribuer
+
+Merci de fork ce repo puis prévenir des Pull pour vérification.
+
 ### Copyright
 
 2016 Mikerhinos
