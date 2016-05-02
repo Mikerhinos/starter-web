@@ -14,3 +14,7 @@ Sample website with plenty of files for demos.
 
 Tests de git
 
+### Copyright
+
+2016 Mikerhinos
+
